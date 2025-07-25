@@ -24,22 +24,19 @@ Or link it from [AeBAD paper](https://arxiv.org/abs/2304.02216).
 
 ## 🧩 Run
 
-All code is in `final-project.ipynb`.  
+All code is in `notebook.ipynb`.  
 Upload it, run it on Kaggle. No configs needed.
 
 ---
 
-## 🗂️ Folder Structure
+## 📁 Folder Structure
 
+```
 ├── final-project.ipynb
-├── datasets/
-│ └── aebad_S.py ← contains AeBAD_SDataset class
-├── utils/
-│ └── load_dataset.py
+├── aebad_S.py          # contains AeBAD_SDataset class
 ├── requirements.txt
-├── README.md
-
-
+└── README.md
+```
 ---
 
 ## 🧪 Custom Dataset Class
@@ -66,4 +63,9 @@ opencv-python
 
 ## Output
 Notebook shows sample defect images with masks overlayed.
+
+##
+<p align="center"><strong>Made with ❤ by Divyansh Aggarwal and Divyanshu</strong></p>
+
+
 
